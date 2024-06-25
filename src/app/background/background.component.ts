@@ -2,12 +2,12 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 
 @Component({
-  selector: 'my-component',
+  selector: 'background',
   standalone: true,
   imports: [RouterOutlet],
-  templateUrl: './my-component.component.html',
-  styleUrl: './my-component.component.css'
+  templateUrl: './background.component.html',
+  styleUrl: './background.component.css'
 })
-export class MyComponent {
-  }
+export class BackgroundComponent {
 
+}

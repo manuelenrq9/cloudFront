@@ -1,0 +1,21 @@
+  
+.background{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(12deg, #6dc9b4,#8d89d9);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.content{
+    background-image: linear-gradient(12deg, #bf1736,#bf1736);
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Optional for horizontal centering */
+}
+
+
+  
